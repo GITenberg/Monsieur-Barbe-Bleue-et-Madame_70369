@@ -1,0 +1,38 @@
+_repo: Monsieur-Barbe-Bleue-et-Madame_70369
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+gutenberg_issued: '2023-03-24'
+identifiers:
+  gutenberg: '70369'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=wu.89104423397
+pgterms:marc905: 20211204140058mille
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aFrance :$bLe livre, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Monsieur Barbe-Bleue... et Madame -- Comment M. Boubal en fut --
+  En Diligence -- L’Épouvantail -- La Théologienne -- Les Ombres reviennent -- Une
+  Femme d’affaires -- Le Retour -- Le Verglas -- Une Robe de soie -- Combats de boxe
+  -- Moustache -- La Consultation -- En une Nuit... -- La Justice immanente -- Rhéa
+  -- La Choulette -- Réconciliation -- Le Testament -- La Haine -- Un vrai Pêcheur
+  -- Albert -- Bossebœuf, vagabond -- La Centenaire.
+title: Monsieur Barbe-Bleue... et Madame
+url: http://www.gutenberg.org/ebooks/70369
